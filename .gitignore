@@ -1,0 +1,20 @@
+# 公开库不含源码与构建产物，此文件用于防止误提交
+*.exe
+*.dll
+*.zip
+*.nupkg
+*.msix
+publish/
+publish-sc/
+Releases/
+bin/
+obj/
+tmp/
+
+# 本地运行时产物（若有人在仓库目录里跑过便携版）
+logs/
+settings.json
+
+# OS
+.DS_Store
+Thumbs.db
