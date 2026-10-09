@@ -20,11 +20,7 @@ assignees: ''
 
 ### 2. 日志内容
 
-打开这个文件，把「开盖」相关的内容贴出来：
-
-```
-%LOCALAPPDATA%\com.jaxdevinlabs.lidsound\current\logs\lidsound.log
-```
+**托盘图标右键 → 「打开日志目录」**，里面就是 `lidsound.log`。
 
 需要的是这几行：
 
@@ -35,6 +31,7 @@ assignees: ''
 ```
 
 > 直接粘贴文件内容即可，注意删掉里面的个人路径。
+> 日志位置随安装方式不同，所以不用自己找路径。
 
 ### 3. 系统版本
 
