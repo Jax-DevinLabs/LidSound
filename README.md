@@ -154,3 +154,5 @@ A：Windows 设置 → 应用 → LidSound → 卸载。或者直接运行安装
 **Made with care by [Jax Devin Labs](https://github.com/Jax-DevinLabs)**
 
 </div>
+
+> **git 怎么提交？** 见源码库 README 的「日常怎么改、怎么提交」章节。
