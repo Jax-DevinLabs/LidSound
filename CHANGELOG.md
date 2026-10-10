@@ -7,6 +7,19 @@
 
 ---
 
+## [0.2.8] — 2026-10-10
+
+### 修复
+- **新旧版本同时运行的问题**。此前旧版本挂在托盘里时安装新版本，安装器不会关闭旧进程，
+  导致出现两个正在运行的 LidSound。现在新实例启动时会自动结束所有旧实例
+  （无论覆盖安装、自动更新还是免安装版双开），同一时间只有一个在运行。
+  该事件会写入日志（「检测到其他 LidSound 实例…正在结束」）。
+
+### 升级说明
+- 直接运行安装包覆盖安装即可，无需手动卸载旧版本；设置、音效、授权文件全部保留。
+
+---
+
 ## [0.2.7] — 2026-10-10
 
 自 0.1.2 之后的第一个公开版本。0.2.0 ~ 0.2.6 仅内部构建、未对外发布，变更一并计入本版。
@@ -85,6 +98,7 @@
 
 ---
 
+[0.2.8]: https://github.com/Jax-DevinLabs/LidSound/releases/tag/v0.2.8
 [0.2.7]: https://github.com/Jax-DevinLabs/LidSound/releases/tag/v0.2.7
 [0.1.2]: https://github.com/Jax-DevinLabs/LidSound/releases/tag/v0.1.2
 [0.1.1]: https://github.com/Jax-DevinLabs/LidSound/releases/tag/v0.1.1
