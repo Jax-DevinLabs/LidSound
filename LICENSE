@@ -1,21 +1,61 @@
-MIT License
+# LidSound 最终用户许可协议（EULA）
 
-Copyright (c) 2026 Jax-DevinLabs
+**生效日期：2026-10-11 ｜ 适用版本：v0.2.9 及之后发布的所有版本**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+> 本协议适用于本仓库发布的 LidSound 软件及其后续版本。
+> 2026-10-11 之前以 MIT 许可证发布的版本，对其取得的副本仍按当时的 MIT 许可证处理。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+版权所有 © 2026 Jax Devin Labs。**保留所有权利。**
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+请在安装或使用前阅读本协议。安装、复制或使用本软件，即表示你已阅读并同意本协议的全部条款。
+
+---
+
+## 1. 定义
+
+- **「本软件」**：LidSound 程序本体、安装包、附带的内置音效素材与文档。
+- **「授权文件」**：由开发者签发的 `license.dat` 文件，用于解锁付费功能。
+- **「你」**：下载、安装或使用本软件的个人或组织。
+
+## 2. 许可授予
+
+在遵守本协议的前提下，Jax Devin Labs 授予你一项**个人的、不可转让的、非独占的**许可：
+
+- **免费使用**：你可以免费安装并使用本软件的内置功能（内置音效的播放与切换）。
+- **付费功能**：解锁「上传与截取自定义音频」需持有有效授权文件。授权按**一台设备一份**签发（机器绑定）。
+- **安装数量**：每份授权文件仅可用于签发时绑定的那台设备。更换设备后，可联系开发者免费重新签发。
+
+## 3. 禁止事项
+
+未经开发者书面许可，你**不得**：
+
+1. **再分发**：向任何第三方提供本软件安装包的副本，无论是否收费；
+2. **倒卖**：以任何形式出售、转售、捆绑销售本软件或授权文件；
+3. **逆向工程**：对本软件进行反编译、反汇编或以其他方式尝试获取源代码（法律明确允许的除外）；
+4. **共享授权**：将授权文件提供给签发设备以外的设备使用，或以任何方式绕过机器绑定；
+5. 移除或掩盖本软件中的版权声明与许可信息。
+
+## 4. 授权文件
+
+- 授权文件绑定设备指纹，仅限你本人、在签发时绑定的设备上使用。
+- 授权文件**一次签发、长期有效**，无订阅、无年费。
+- 因你主动泄露授权文件导致的滥用，开发者有权对相关授权做失效处理。
+
+## 5. 更新与变更
+
+- 开发者可能不定期发布更新。更新版本同样受本协议约束。
+- 本协议如有修订，会在本仓库公告并更新生效日期；重大不利变更会提前公告。
+
+## 6. 免责声明
+
+本软件按「现状」提供，**不作任何明示或默示的担保**。在适用法律允许的最大范围内，Jax Devin Labs 不对因使用或无法使用本软件造成的任何损失承担责任。
+
+## 7. 协议终止
+
+如你违反本协议，你的使用许可自动终止，须停止使用并删除本软件的全部副本。第 3、4、6 条在终止后继续有效。
+
+## 8. 其他
+
+- 本协议适用中华人民共和国法律。
+- 本协议未尽事宜，可通过本仓库 [Issue](https://github.com/Jax-DevinLabs/LidSound/issues) 与开发者协商。
+- 本协议的中英文版本如有歧义，以中文版本为准。
