@@ -7,6 +7,15 @@
 
 ---
 
+## [0.2.9] — 2026-10-11
+
+### 变更
+- **许可协议变更**：自本版本起采用专有许可协议（EULA）——内置功能免费使用；
+  禁止再分发、倒卖与逆向工程。协议全文见 [LICENSE](LICENSE)，并随安装包附带（安装目录 `LICENSE.txt`）。
+- 本版本无功能变化，v0.2.8 的全部修复（单实例守卫等）继续有效。
+
+---
+
 ## [0.2.8] — 2026-10-10
 
 ### 修复
@@ -98,6 +107,7 @@
 
 ---
 
+[0.2.9]: https://github.com/Jax-DevinLabs/LidSound/releases/tag/v0.2.9
 [0.2.8]: https://github.com/Jax-DevinLabs/LidSound/releases/tag/v0.2.8
 [0.2.7]: https://github.com/Jax-DevinLabs/LidSound/releases/tag/v0.2.7
 [0.1.2]: https://github.com/Jax-DevinLabs/LidSound/releases/tag/v0.1.2
