@@ -69,12 +69,14 @@ CPU 占用可忽略——它只在开盖那一瞬间动作，平时什么都不�
 **购买流程**：
 
 1. 主界面点「用音乐做音效」，在弹出的窗口点「复制完整指纹」
-2. 到 [GitHub Issues](https://github.com/Jax-DevinLabs/LidSound/issues) 新建一个 Issue（标题写「购买授权」），附上完整指纹
-3. 按开发者的回复指引完成付款，会收到一个 `license.dat` 授权文件
-4. 在授权窗口选择该文件导入，即解锁
+2. 通过下方联系方式找到我们，把完整指纹发过来并完成下单
+3. 收到 `license.dat` 授权文件后，在授权窗口选择该文件导入，即解锁
 
-> 付款渠道正在接入中，当前通过 Issue 回复指引完成付款。
-> 问题反馈也走 [Issues](https://github.com/Jax-DevinLabs/LidSound/issues)。
+**联系我们 / 下单**：
+
+- 闲鱼：搜索「**LidSound**」（直达链接整理中）
+- 微信：整理中
+- 问题反馈（免费）：[GitHub Issues](https://github.com/Jax-DevinLabs/LidSound/issues)
 
 ---
 
